@@ -8,5 +8,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sina-rostami&show_icons=true&locale=en" alt="sauravgupta2800" /></p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShanliAlefkhani&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sina-rostami&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
 </p>
