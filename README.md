@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sina-rostami&label=Profile%20views&color=0e75b6&style=flat" alt="sina-rostami" /> </p>
 
-- 🔭 I’m currently working as a **C++ Developer**
+- 🔭 I’m currently working as a **Software Engineer**
 
-- 🌱 I’m currently learning **Network, SRE, AWS**
+- 🌱 I’m currently learning more about **Computer Networks and SRE**
 
 - 💬 Ask me about **linux, docker, C++, and Python**
 
