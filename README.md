@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sina Rostami</h1>
-<h3 align="center">A Computer Engineering Student and Software Developer from Iran</h3>
+<h3 align="center">A PhD Student in Computer Science in MPI-INF</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sina-rostami&label=Profile%20views&color=0e75b6&style=flat" alt="sina-rostami" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer**
-
-- 🌱 I’m currently learning more about **Computer Networks and SRE**
-
-- 💬 Ask me about **linux, docker, C++, and Python**
+- 🔭 I’m currently working as a **PhD Student**
 
 - 📫 How to reach me **sinarostami4188.1@gmail.com**
 
